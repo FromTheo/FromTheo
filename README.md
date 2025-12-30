@@ -3,7 +3,7 @@
 I'm passionate about **quantitative finance**, **machine learning**, and **stochastic modeling**.  
 I enjoy implementing research papers, developing efficient numerical methods, and exploring the intersection between **maths and code**.
 
-Feel free to reach out if you’d like to discuss research! 
+Feel free to reach out if you’d like to discuss quantitative research! 
 
 ### 🧠 Languages
 
